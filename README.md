@@ -30,6 +30,11 @@ Here, you can user normal Apple login and use with firebase
 
 <img width="400" alt="Screenshot 2020-03-28 at 3 08 03 PM" src="https://user-images.githubusercontent.com/15169802/77820600-792f2a80-7109-11ea-90a8-1e4ae4b81cbc.png">
 
+# Firebase Apple login with Credentials
+
+- Just Un-Comment the code for Firebase login and make callbback accordingly
+
+<img width="500" alt="Screenshot 2020-03-28 at 3 37 58 PM" src="https://user-images.githubusercontent.com/15169802/77820712-3b7ed180-710a-11ea-810a-df17ce2b828a.png">
 
 
 
