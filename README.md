@@ -6,10 +6,13 @@ Here, you can user normal Apple login and use with firebase
 - Xcode 10+
 - iOS 13.0+
 
-# For Firebase 
+# Firebase 
 - Enable Apple Authentication 
 
+# Apple Developer 
 - Enable SignIn with Apple in bundle identifier at apple developer console 
+
+# Project Setting
 - Drag SignInWith Apple in Capibility 
 
 <img width="268" alt="Screenshot 2020-03-28 at 3 04 41 PM" src="https://user-images.githubusercontent.com/15169802/77820489-acbd8500-7108-11ea-8272-16de278becf7.png">
